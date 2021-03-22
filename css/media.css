@@ -1,0 +1,22 @@
+@media (max-width: 1440px){
+	.container {
+		width: 1300px;
+	}
+	.promo__btns {
+		left: 650px;
+	}
+	.logos__logo {
+		margin-right: 76px;
+	}
+	.logos__inner {
+		padding: 58px 0 58px 0;
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+	}
+}
+@media (max-width: 768px){
+	.container {
+		width: 668px;
+	}
+}
